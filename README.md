@@ -22,7 +22,7 @@
 [![website](./img/globe-light.svg)](https://yahya-abulhaj.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://yahya-abulhaj.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https:www.linkedin.com/in/yahya-abulhaj)
+[![website](./img/linkedin-light.svg)](https:www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https:www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/yahya_abulhaj#gh-light-mode-only)
