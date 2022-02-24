@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/......#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/....#gh-dark-mode-only) -->
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
 &nbsp;&nbsp;
