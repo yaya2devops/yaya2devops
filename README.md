@@ -19,7 +19,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://yahya-abulhaj.com)
+[![website](./img/globe-light.svg)](https://yahya-abulhaj.com#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://yahya-abulhaj.com#gh-dark-mode-only)
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
