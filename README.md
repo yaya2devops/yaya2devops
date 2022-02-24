@@ -18,21 +18,24 @@
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 ### Connect with me:
-&nbsp;
+&nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://yahya-abulhaj.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://yahya-abulhaj.com#gh-dark-mode-only)
-<!-- &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/..#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/..#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/......#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/....#gh-dark-mode-only) -->
+
 &nbsp;
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
 &nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/yahya_abulhaj#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/yahya_abulhaj#gh-dark-mode-only)
+
+<!-- &nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/..#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/..#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/......#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/....#gh-dark-mode-only) -->
+
 
 ### Languages and Tools:
 [<img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" style="padding-right:10px;" />]
