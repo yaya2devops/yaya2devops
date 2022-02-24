@@ -25,8 +25,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://https://www.instagram.com/yahya_abulhaj/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://https://www.instagram.com/yahya_abulhaj/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/yahya_abulhaj/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/yahya_abulhaj/#gh-dark-mode-only)
 
 <!-- &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/..#gh-light-mode-only)
