@@ -117,7 +117,7 @@ planning on
 
 [website]: https://www.yahya-abulhaj.dev
 [Here]: https://blog.yahya-abulhaj.dev
-[Yahya]: https://www.yahya-abulhaj.com
+[Yahya]: 
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/yahya_abulhaj
