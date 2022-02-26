@@ -83,7 +83,7 @@ planning on
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Azure fundamentals Certifications](https://yahya-abulhaj.hashnode.dev/getting-started-with-azure-fundamentals-certifications)
+- [Getting started with Azure fundamentals Certifications](https://blog.yahya-abulhaj.dev/getting-started-with-azure-fundamentals-certifications)
 
 <!-- BLOG-POST-LIST:END -->
 
