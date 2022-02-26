@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm [Yahya] 
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm [Yahya]
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=here.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yahya-abulhaj.com)
@@ -117,7 +117,7 @@ planning on
 
 [website]: https://www.yahya-abulhaj.dev
 [Here]: https://blog.yahya-abulhaj.dev
-[Yahya]: 
+[Yahya]: https://www.yahya-abulhaj.dev
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/yahya_abulhaj
