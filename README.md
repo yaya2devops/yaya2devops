@@ -115,7 +115,7 @@ planning on
 
 
 
-[website]: https://www.yahya-abulhaj.com
+[website]: https://blog.yahya-abulhaj.dev
 [Here]: https://yahya-abulhaj.hashnode.dev
 [Yahya]: https://www.yahya-abulhaj.com
 [twitter]: https://twitter.com/
