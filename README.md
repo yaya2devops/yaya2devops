@@ -8,7 +8,7 @@
 
 
 
-## I'm a Computer Engineering Student!
+## I'm a [Computer Engineering] Student!
 
 - 📚 Check out my blog : [Here]!
 - 🌱 I’m currently learning everything 🤣
@@ -114,7 +114,7 @@ planning on
 
 
 
-
+[Computer Engineering]: https://degree.yahya-abulhaj.dev
 [website]: https://www.yahya-abulhaj.dev
 [Here]: https://blog.yahya-abulhaj.dev
 [Yahya]: https://www.yahya-abulhaj.dev
