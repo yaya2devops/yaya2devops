@@ -13,7 +13,7 @@
 - 📚 Check out my blog : [Here]!
 - 🌱 I’m currently learning DevOps related Tools, Technologies & Products.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about LINUX, K8S, Ansible.. 
+- 🥅 2022 Goals: Learn more about LINUX, Jenkins, Containerisation and it's solutions..
 - ⚡ Fun fact: I love to play guitar & League of Legends
 
 
