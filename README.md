@@ -114,10 +114,10 @@ planning on
 
 
 
-[Computer Engineering]: https://degree.yahya-abulhaj.tech
+[Computer Engineering]: https://degree.yahya-abulhaj.dev
 [website]: https://www.itzyahya.tech
 [Here]: https://blog.yahya-abulhaj.dev
-[Yahya]: https://www.itzyahya.dev
+[Yahya]: https://www.itzyahya.tech
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/yahya_abulhaj
