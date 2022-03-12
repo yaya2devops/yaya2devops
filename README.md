@@ -114,7 +114,7 @@ planning on
 
 
 
-[Computer Engineering]: https://degree.yahya-abulhaj.dev
+[Computer Engineering]: https://degree.yahya-abulhaj.tech
 [website]: https://www.itzyahya.tech
 [Here]: https://blog.yahya-abulhaj.dev
 [Yahya]: https://www.itzyahya.dev
