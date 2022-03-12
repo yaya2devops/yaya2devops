@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://yahya-abulhaj.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://yahya-abulhaj.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.itzyahya.tech#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.itzyahya.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
@@ -115,9 +115,9 @@ planning on
 
 
 [Computer Engineering]: https://degree.yahya-abulhaj.dev
-[website]: https://www.yahya-abulhaj.dev
+[website]: https://www.itzyahya.tech
 [Here]: https://blog.yahya-abulhaj.dev
-[Yahya]: https://www.yahya-abulhaj.dev
+[Yahya]: https://www.itzyahya.dev
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/yahya_abulhaj
