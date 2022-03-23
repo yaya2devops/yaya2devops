@@ -84,7 +84,7 @@ planning on
 
 <!-- BLOG-POST-LIST:START -->
 - [Passing Microsoft Azure Administrator Associate Certification](https://blog.yahya-abulhaj.dev/passing-microsoft-azure-administrator-associate-certification)
-- [Getting started with Azure fundamentals Certifications](https://blog.yahya-abulhaj.dev/getting-started-with-azure-fundamentals-certifications)
+- [Getting started with Azure fundamentals Certifications](https://blog.yahya-abulhaj.dev/getting-started-with-microsoft-azure-fundamentals-certifications)
 
 <!-- BLOG-POST-LIST:END -->
 
