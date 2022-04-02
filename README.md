@@ -13,7 +13,7 @@
  
  **Oh right, & i [blog] sometimes**
 
-
+---
 
 ### You wanna connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only) is the coolest for that!
 
