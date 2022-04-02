@@ -6,7 +6,7 @@
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=theme) -->
 ---
-<img src="https://www.canva.com/design/DAE8vKYwXGg/oj2KQ00lrtaAw4nz8E7Eog/watch?utm_content=DAE8vKYwXGg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width="415px">
+<img src="https://raw.githubusercontent.com/Y4HYA4/Y4HYA4/master/cloudy.gif" width="415px">
 
 
 
