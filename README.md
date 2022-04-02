@@ -8,7 +8,8 @@
 
 
 
-## I'm a [Computer Engineering] Student!
+### I don't know what to say about me
+### I do lots of things with my [Computer]
 
 - 📚 Check out my blog : [Here]!
 - 🌱 I’m currently learning DevOps related Tools, Technologies & Products.
@@ -113,7 +114,7 @@ planning on
    -->
 
 
-
+[Computer]: https://degree.yahya-abulhaj.dev
 [Bonjour!]: https://www.itzyahya.tech
 [Computer Engineering]: https://degree.yahya-abulhaj.dev
 [website]: https://www.itzyahya.tech
