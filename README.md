@@ -15,7 +15,7 @@
 
 
 
-### You wanna connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)the coolest!
+### You wanna connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only) is the coolest!
 &nbsp;&nbsp;
 <!--
 [![website](./img/globe-light.svg)](https://www.itzyahya.tech#gh-light-mode-only)
