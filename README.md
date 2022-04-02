@@ -8,8 +8,8 @@
 
 
 
-#### I don't know what to say about me
-#### I do lots of things with my [Computer]
+ I don't know what to say about me
+ I do lots of things with my [Computer]
 
 - 📚 Check out my blog : [Here]!
 - 🌱 I’m currently learning DevOps related Tools, Technologies & Products.
