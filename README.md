@@ -15,7 +15,7 @@
 
 
 
-### Connect with me: [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
+### You wanna connect, LinkedIn the coolest! [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 [![website](./img/globe-light.svg)](https://www.itzyahya.tech#gh-light-mode-only)
