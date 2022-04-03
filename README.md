@@ -49,8 +49,9 @@
 <img align="left" alt="Gatsby" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="LINUX" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="36px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" />
+<img align="left" alt="BASH" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" />
 
 
 
