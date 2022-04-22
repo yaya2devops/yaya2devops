@@ -14,10 +14,12 @@
  I do lots of things with my [Computer]...👨‍💻**
  
  **Oh right, & i [blog] sometimes**
-
+ 
+---
+Constantly working on improvement of [CloudBoost]
 ---
 
-### Connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only) is the coolest!
+### Connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)!
 
 <!--
 [![website](./img/globe-light.svg)](https://www.itzyahya.tech#gh-light-mode-only)
@@ -50,7 +52,6 @@
 <img align="left" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="LINUX" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" />
-<img align="left" alt="Terminal" width="36px" src="./img/terminal-light.svg" />
 <img align="left" alt="BASH" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" />
 
 
@@ -118,7 +119,7 @@ planning on
    </details>
    
    -->
-
+[CloudBoost]: https://cloud.itzyahya.tech
 [Blog]: https://blog.yahya-abulhaj.dev
 [Computer]: https://degree.yahya-abulhaj.dev
 [Bonjour]: https://www.itzyahya.tech
