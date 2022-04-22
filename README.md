@@ -11,11 +11,13 @@
 
 
 **I don't know what to say about me,
- I do lots of things with my [Computer]...👨‍💻** 
+ I do lots of things...💻** 
  
- **Oh right, & i [blog] sometimes**
+ **currently pursuing this [program], 4th semester 📚.**
  
- **Constantly working on improving [CloudBoost]**
+ **Constantly working on improving [CloudBoost] 🚧**
+ 
+ **Oh right, & i [blog] sometimes 📝**
  
 ---
 
@@ -121,7 +123,7 @@ planning on
    -->
 [CloudBoost]: https://cloud.itzyahya.tech
 [Blog]: https://blog.yahya-abulhaj.dev
-[Computer]: https://degree.yahya-abulhaj.dev
+[program]: https://degree.yahya-abulhaj.dev
 [Bonjour]: https://www.itzyahya.tech
 [Computer Engineering]: https://degree.yahya-abulhaj.dev
 [website]: https://www.itzyahya.tech
