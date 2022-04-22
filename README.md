@@ -11,9 +11,7 @@
 
 
 **I don't know what to say about me,
- I do lots of things with my [Computer]...👨‍💻**
- 
- **Oh right, & i [blog] sometimes**
+ I do lots of things with my [Computer]...👨‍💻** **Oh right, & i [blog] sometimes**
  
  **Constantly working on improving [CloudBoost]**
  
