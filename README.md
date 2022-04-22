@@ -16,7 +16,7 @@
  **Oh right, & i [blog] sometimes**
  
 ---
-Constantly working on improvement of [CloudBoost]
+#### Constantly working on improving [CloudBoost]
 ---
 
 ### Connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)!
