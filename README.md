@@ -13,11 +13,11 @@
 **I don't know what to say about me,
  I do lots of things...💻** 
  
- **Currently pursuing this [program], 4th semester 📚.**
+ - **Currently pursuing this [program], 4th semester 📚.**
  
- **Constantly working on improving [CloudBoost] 🚧**
+ - **Constantly working on improving [CloudBoost] 🚧**
  
- **Oh right, & i [blog] sometimes 📝**
+ - **Oh right, & i [blog] sometimes 📝**
  
 ---
 
