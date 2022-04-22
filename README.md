@@ -13,7 +13,7 @@
 **I don't know what to say about me,
  I do lots of things...💻** 
  
- **currently pursuing this [program], 4th semester 📚.**
+ **Currently pursuing this [program], 4th semester 📚.**
  
  **Constantly working on improving [CloudBoost] 🚧**
  
