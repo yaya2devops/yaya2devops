@@ -1,4 +1,4 @@
-## [Bonjour <a href="https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## [Bonjour] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=here.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yahya-abulhaj.com)
@@ -18,10 +18,9 @@
  - **Constantly working on improving [CloudBoost] 🚧**
  
  - **Oh right, & i [blog] sometimes 📝**
- 
----
-<a href="https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+ <a href="https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://www.itzyahya.tech/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+---
 <!--
 ### Connect, Linked[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)!
 
