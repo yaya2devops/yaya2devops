@@ -90,7 +90,7 @@ planning on
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft Certified: The Renewal Process](https://blog.yahya-abulhaj.dev/microsoft-certified-the-renewal-process)
