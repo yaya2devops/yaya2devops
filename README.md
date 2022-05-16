@@ -106,6 +106,8 @@ planning on
 ![](https://raw.githubusercontent.com/Y4HYA4/Y4HYA4/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/Y4HYA4/Y4HYA4/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y4HYA4&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
