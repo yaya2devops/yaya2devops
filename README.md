@@ -9,6 +9,14 @@
 <img src="https://raw.githubusercontent.com/Y4HYA4/Y4HYA4/master/YahyaV2.gif" >
 
 
+[![website](./img/globe-light.svg)](https://www.yahya-abulhaj.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.yahya-abulhaj.dev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/AbulhajYahya/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AbulhajYahya/#gh-dark-mode-only)
 
 **I don't know what to say about me,
  I do lots of things...💻** 
@@ -22,16 +30,7 @@
 <!--
 ---
 ### Connect, Linked-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)-
--->
----
-[![website](./img/globe-light.svg)](https://www.yahya-abulhaj.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.yahya-abulhaj.dev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yahya-abulhaj#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AbulhajYahya/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AbulhajYahya/#gh-dark-mode-only)
+
 
 <!-- &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/..#gh-light-mode-only)
