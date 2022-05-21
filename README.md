@@ -92,6 +92,7 @@ planning on
 ### 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why HashiCorp Terraform?](https://blog.yahya-abulhaj.dev/why-hashicorp-terraform)
 - [Microsoft Certified: The Renewal Process](https://blog.yahya-abulhaj.dev/microsoft-certified-the-renewal-process)
 - [Passing Microsoft Azure Administrator Associate Certification](https://blog.yahya-abulhaj.dev/passing-microsoft-azure-administrator-associate-certification)
 - [Getting started with Azure fundamentals Certifications](https://blog.yahya-abulhaj.dev/getting-started-with-microsoft-azure-fundamentals-certifications)
