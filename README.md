@@ -92,10 +92,10 @@ planning on
 ### 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Build: Cloud Skills Challenge | Free Microsoft Certification Voucher](https://blog.yahya-abulhaj.dev/microsoft-build-cloud-skills-challenge-or-free-microsoft-certification-voucher)
 - [Why HashiCorp Terraform?](https://blog.yahya-abulhaj.dev/why-hashicorp-terraform)
 - [Microsoft Certified: The Renewal Process](https://blog.yahya-abulhaj.dev/microsoft-certified-the-renewal-process)
-- [Passing Microsoft Azure Administrator Associate Certification](https://blog.yahya-abulhaj.dev/passing-microsoft-azure-administrator-associate-certification)
-- [Getting started with Azure fundamentals Certifications](https://blog.yahya-abulhaj.dev/getting-started-with-microsoft-azure-fundamentals-certifications)
+
 
 
 <!-- BLOG-POST-LIST:END -->
