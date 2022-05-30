@@ -95,7 +95,6 @@ planning on
 - [Host Your Application Using Azure Blob Storage & CloudFlare | DNS Configuration](https://blog.yahya-abulhaj.dev/host-your-application-using-azure-blob-storage-and-cloudflare-or-dns-configuration)
 - [Microsoft Build: Cloud Skills Challenge | Free Microsoft Certification Voucher](https://blog.yahya-abulhaj.dev/microsoft-build-cloud-skills-challenge-or-free-microsoft-certification-voucher)
 - [Why HashiCorp Terraform?](https://blog.yahya-abulhaj.dev/why-hashicorp-terraform)
-- [Microsoft Certified: The Renewal Process](https://blog.yahya-abulhaj.dev/microsoft-certified-the-renewal-process)
 
 
 
