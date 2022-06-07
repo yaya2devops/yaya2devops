@@ -6,7 +6,7 @@
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=theme) -->
 ---
-<img src="https://raw.githubusercontent.com/Y4HYA4/Y4HYA4/master/s.gif" width="500" >
+<img src="https://raw.githubusercontent.com/Y4HYA4/Y4HYA4/master/YahyaV2.gif" width="500" >
 
 
 [![website](./img/globe-light.svg)](https://www.yahya-abulhaj.dev#gh-light-mode-only)
