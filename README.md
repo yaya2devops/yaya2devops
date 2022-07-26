@@ -12,9 +12,10 @@
 
 - [Microsoft Certified: Azure Developer Associate | Study Guide](https://blog.yahya-abulhaj.dev/microsoft-certified-azure-developer-associate-or-study-guide)
 
+> ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
 
 </details>
 
-> ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
+
 
 ---
