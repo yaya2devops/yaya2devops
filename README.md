@@ -4,6 +4,8 @@
 <details>
 <summary>💡Latest Articles </summary>
 
+- [Git/GitHub Workflow in 80 seconds](https://blog.yahya-abulhaj.dev/gitgithub-workflow-in-80-seconds)
+
 - [Containers, Docker | What exactly is that?](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that)
 
 - [IT - General Culture](https://blog.yahya-abulhaj.dev/it-general-culture)
