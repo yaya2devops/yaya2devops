@@ -4,6 +4,9 @@
 <details>
 <summary>💡Latest Articles </summary>
 
+
+- [Azure Cloud Security | Sentinel And Defender](https://blog.yahya-abulhaj.dev/azure-cloud-security-sentinel-and-defender)
+
 - [Git/GitHub Workflow in 80 seconds](https://blog.yahya-abulhaj.dev/gitgithub-workflow-in-80-seconds)
 
 - [Containers, Docker | What exactly is that?](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that)
