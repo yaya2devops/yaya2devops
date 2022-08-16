@@ -4,7 +4,10 @@
 <details>
 <summary>💡Latest Articles </summary>
 
-
+- [Cleaning up your Microsoft Azure Account](https://blog.yahya-abulhaj.dev/cleaning-up-your-microsoft-azure-account)
+  
+- [To-Do Certifications](https://blog.yahya-abulhaj.dev/to-do-certifications)
+  
 - [Azure Cloud Security | Sentinel And Defender](https://blog.yahya-abulhaj.dev/azure-cloud-security-sentinel-and-defender)
 
 - [Git/GitHub Workflow in 80 seconds](https://blog.yahya-abulhaj.dev/gitgithub-workflow-in-80-seconds)
