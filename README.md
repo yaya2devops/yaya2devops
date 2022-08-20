@@ -4,9 +4,9 @@
 <details>
 <summary>💡Latest Articles </summary>
 
-- [AWS Certified: Cloud Practitioner Certification](cl711zrns03u1d3nv4ped5tt3.md)
+- [AWS Certified: Cloud Practitioner Certification](https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification)
 
-- [Microsoft Intune | Control Over Your Devices](cl6z1spwg006ebinvalgaf0n8.md)
+- [Microsoft Intune | Control Over Your Devices](https://blog.yahya-abulhaj.dev/microsoft-intune-control-over-your-devices)
 
 - [Cleaning up your Microsoft Azure Account](https://blog.yahya-abulhaj.dev/cleaning-up-your-microsoft-azure-account)
   
