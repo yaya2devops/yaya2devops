@@ -4,6 +4,13 @@
 <details>
 <summary>💡Latest Articles </summary>
 
+- [Microsoft Certified: Security Operations Analyst Associate | Study Guide
+](https://blog.yahya-abulhaj.dev/microsoft-certified-security-operations-analyst-associate-study-guide)
+
+- [Microsoft Certified: Azure Security Engineer Associate | Study Guide](https://blog.yahya-abulhaj.dev/microsoft-certified-azure-security-engineer-associate-or-study-guide)
+
+- [Microsoft Certified: Azure Network Engineer Associate | Study Guide](https://blog.yahya-abulhaj.dev/microsoft-certified-azure-network-engineer-associate-study-guide)
+
 - [AWS Certified: Cloud Practitioner Certification](https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification)
 
 - [Microsoft Intune | Control Over Your Devices](https://blog.yahya-abulhaj.dev/microsoft-intune-control-over-your-devices)
