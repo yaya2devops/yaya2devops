@@ -1,6 +1,10 @@
+Hi! My name is Yahya, and I work as a **DevOps consultant** for a canadian startup. <img src="3DTOUCH.gif" align="right" width="300" >
 
-<img src="3DTOUCH.gif"  >
+My experience includes process automation, cloud infrastructure development, application deployment, and support for existing operations.
 
+I'm highly dynamic and able to quickly adapt to changing situations. With a strong background in problem solving and creative thinking, I have the ability to think outside of the box while still maintaining an organized approach.
+
+My enthusiasm for learning new skills makes me a valuable asset in any team environment as well as my commitment to delivering results on time.
 <details>
 <summary> 💡Articles, recently
 
@@ -28,6 +32,6 @@
 
 </details>
 
----
 
-<a href=#><img src="contributions.svg"></a>
+
+<a href=#><img align="right" src="contributions.svg"></a>
