@@ -10,17 +10,14 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 
 </summary>
   
+- [Why Skype for Business is Good for You ](https://blog.yahya-abulhaj.dev/why-skype-for-business-is-good-for-you)  
+
 - [Let's Explain a Pipeline](https://blog.yahya-abulhaj.dev/lets-explain-a-pipeline)  
 
 - [Microsoft Ignite Event: Free Exam Voucher](https://blog.yahya-abulhaj.dev/microsoft-ignite-event-free-exam-voucher)
 
 - [Microsoft Certified:CyberSecurity Architect Expert | Resources](https://blog.yahya-abulhaj.dev/microsoft-certifiedcybersecurity-architect-expert-resources)
   
-- [Microsoft Certified: Azure Solutions Architect Expert | Resources
-](https://blog.yahya-abulhaj.dev/microsoft-certified-azure-solutions-architect-expert-resources)
-
-- [Microsoft Certified: DevOps Engineer Expert | Resources
-](https://blog.yahya-abulhaj.dev/microsoft-certified-devops-engineer-expert-resources)
 
 
 > ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
