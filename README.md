@@ -10,6 +10,8 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 
 </summary>
   
+- [Ansible: A Practical Guide to Configuration Management](https://blog.yahya-abulhaj.dev/ansible-a-practical-guide-to-configuration-management)
+  
 - [Unleashing the Power of Cloud-Native Technologies](https://blog.yahya-abulhaj.dev/unleashing-the-power-of-cloud-native-technologies)  
   
 - [HELM | The Essential Package Manager for Kubernetes](https://blog.yahya-abulhaj.dev/helm-the-essential-package-manager-for-kubernetes)  
