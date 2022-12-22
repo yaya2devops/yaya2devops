@@ -5,6 +5,7 @@ My experience includes **process automation**, **cloud infrastructure developmen
 I'm highly dynamic and able to quickly adapt to changing situations. With a strong background in problem solving and creative thinking, I have the ability to think outside of the box while still maintaining an organized approach.
 
 My enthusiasm for learning new skills makes me a valuable asset in any team environment as well as my commitment to delivering results on time.
+
 <details>
 <summary> 💡Articles, recently
 
