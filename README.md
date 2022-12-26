@@ -16,6 +16,10 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 </a>
 
 </summary>
+
+- [Mastering Python and Bash for Next-Level Automation](https://blog.yahya-abulhaj.dev/mastering-python-and-bash-for-next-level-automation)  
+  
+- [Monitoring Made Easy with Prometheus](https://blog.yahya-abulhaj.dev/monitoring-made-easy-with-prometheus)
   
 - [Ansible: A Practical Guide to Configuration Management](https://blog.yahya-abulhaj.dev/ansible-a-practical-guide-to-configuration-management)
   
