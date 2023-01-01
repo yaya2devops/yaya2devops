@@ -1,5 +1,7 @@
 
-Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generation Cybersecurity Consulting**. <img src="3DTOUCH.gif" align="right" width="300" >
+Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generation Cybersecurity Consulting**. <br>
+
+<img src="3DTOUCH.gif" align="right" width="300" >
 
 My experience includes **process automation**, **cloud infrastructure development**, **security operations**, and support for existing procedures.
 
