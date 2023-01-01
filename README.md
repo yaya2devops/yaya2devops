@@ -41,6 +41,8 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 <br>
 
 <img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
+<img align="left" alt="GCP" width="26px" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -50,7 +52,4 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LINUX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" />
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" />
-
-
-
 
