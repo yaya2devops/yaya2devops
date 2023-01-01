@@ -18,6 +18,16 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 </summary>
 
 <!-- HASHNODE_BLOG:START -->
+- [Mastering Python and Bash for Next-Level Automation](https://blog.yahya-abulhaj.dev//mastering-python-and-bash-for-next-level-automation)
+- [Monitoring Made Easy with Prometheus](https://blog.yahya-abulhaj.dev//monitoring-made-easy-with-prometheus)
+- [Ansible: A Practical Guide to Configuration Management](https://blog.yahya-abulhaj.dev//ansible-a-practical-guide-to-configuration-management)
+- [Unleashing the Power of Cloud-Native Technologies](https://blog.yahya-abulhaj.dev//unleashing-the-power-of-cloud-native-technologies)
+- [HELM |  The Essential Package Manager for Kubernetes](https://blog.yahya-abulhaj.dev//helm-the-essential-package-manager-for-kubernetes)
+- [YAML Ain’t Markup Language](https://blog.yahya-abulhaj.dev//yaml-aint-markup-language)
+- [KUBERNETES | The Containers Orchestration Engine](https://blog.yahya-abulhaj.dev//kubernetes-the-containers-orchestration-engine)
+- [Why Skype for Business is Good for You](https://blog.yahya-abulhaj.dev//why-skype-for-business-is-good-for-you)
+- [Let's Explain a Pipeline](https://blog.yahya-abulhaj.dev//lets-explain-a-pipeline)
+- [Microsoft Ignite Event: Free Exam Voucher](https://blog.yahya-abulhaj.dev//microsoft-ignite-event-free-exam-voucher)
 <!-- HASHNODE_BLOG:END -->
   
 - [Mastering Python and Bash for Next-Level Automation](https://blog.yahya-abulhaj.dev/mastering-python-and-bash-for-next-level-automation)  
