@@ -5,7 +5,7 @@ Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generatio
 
 <details>
 <summary>
-  👇Learn more about my experience
+  Learn more about my experience
 </summary>
 My experience includes process automation, cloud infrastructure development, security operations, and support for existing procedures.
 <br><br>
@@ -20,7 +20,7 @@ I do cloud certifications to stay up to date on the latest technologies. I am cu
 </details>
 
 <details>
-<summary> 👇I also write articles
+<summary> I also write articles
 </summary>
 
 <!-- HASHNODE_BLOG:START -->
