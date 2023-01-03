@@ -46,16 +46,7 @@ Let's connect!
 <a href="https://www.linkedin.com/in/yahya-abulhaj/">
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<br><br> 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y4HYA4&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 <a href=#><img align="right" src="contributions.svg"></a>
-
-<br>
-
 <img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 <img align="left" alt="GCP" width="26px" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
