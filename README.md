@@ -1,5 +1,5 @@
 
-Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generation Cybersecurity Consulting**. <br>
+Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generation CyberSecurity Consulting** (NGCSC). <br>
 
 <img src="3DTOUCH.gif" align="right" width="300" >
 
