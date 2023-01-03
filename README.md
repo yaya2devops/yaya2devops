@@ -18,7 +18,7 @@ I do cloud certifications to stay up to date on the latest technologies. I am cu
 </details>
 
 <details>
-<summary> 👇I write technical articles
+<summary> 👇I also write articles
 </summary>
 
 <!-- HASHNODE_BLOG:START -->
