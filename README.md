@@ -3,20 +3,22 @@ Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generatio
 
 <img src="3DTOUCH.gif" align="right" width="300" >
 
-My experience includes **process automation**, **cloud infrastructure development**, **security operations**, and support for existing procedures.
-
+<details>
+<summary>
+  👇Learn more about my experience
+</summary>
+My experience includes process automation, cloud infrastructure development, security operations, and support for existing procedures.
+<br><br>
 I'm highly dynamic and able to quickly adapt to changing situations. With a strong background in problem solving and creative thinking, I have the ability to think outside of the box while still maintaining an organized approach.
-
+<br><br>
 My enthusiasm for learning new skills makes me a valuable asset in any team environment as well as my commitment to delivering results on time.
+  
+<br><br>
+I do cloud certifications to stay up to date on the latest technologies. I am currently Multi-Cloud Certified 16 times. Find out more from [here](https://github.com/Y4HYA4/ExperienceInCloud#-certifications).
+</details>
 
 <details>
-<summary> 💡Articles, recently <a href="https://www.instagram.com/yaya2devops/">
-  <img align="left" alt="Yaya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/yahya-abulhaj/">
-  <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+<summary> 👇I write technical articles
 </summary>
 
 <!-- HASHNODE_BLOG:START -->
@@ -35,7 +37,13 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 > ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
 
 </details>
-
+Let's connect! 
+ <a href="https://www.instagram.com/yaya2devops/">
+  <img align="left" alt="Yaya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/yahya-abulhaj/">
+  <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 <a href=#><img align="right" src="contributions.svg"></a>
