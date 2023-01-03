@@ -47,6 +47,10 @@ Let's connect!
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y4HYA4&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <a href=#><img align="right" src="contributions.svg"></a>
 
