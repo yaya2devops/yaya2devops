@@ -17,7 +17,7 @@ My enthusiasm for learning new skills makes me a valuable asset in any team envi
 <br><br>
   
 I do cloud certifications to stay up to date on the latest technologies. I am currently 16 times Multi-Cloud Certified.
-<br>Find out more from [here](https://github.com/Y4HYA4/ExperienceInCloud#-certifications#readme).
+<br>Find out more from [here](https://github.com/Y4HYA4/ExperienceInCloud#readme).
   
 </details>
 
