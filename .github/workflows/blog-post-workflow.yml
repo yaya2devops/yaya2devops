@@ -18,6 +18,6 @@ jobs:
         with:
           USERNAME: 'Y4HYA4' # Hashnode Username
           BLOG_URL: 'https://blog.yahya-abulhaj.dev/' # Blog URL
-          COUNT: 10 # MAX Visisble
+          COUNT: 3 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
