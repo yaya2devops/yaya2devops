@@ -26,9 +26,9 @@ I do cloud certifications to stay up to date on the latest technologies. I am cu
 </summary>
 
 <!-- HASHNODE_BLOG:START -->
+- [AWS Developer Exam Study Guide: Resources, Tips, and Strategies](https://blog.yahya-abulhaj.dev//aws-developer-exam-study-guide-resources-tips-and-strategies)
 - [Quickstart Ruby On Rails](https://blog.yahya-abulhaj.dev//quickstart-ruby-on-rails)
 - [Mastering Python and Bash for Next-Level Automation](https://blog.yahya-abulhaj.dev//mastering-python-and-bash-for-next-level-automation)
-- [Monitoring Made Easy with Prometheus](https://blog.yahya-abulhaj.dev//monitoring-made-easy-with-prometheus)
 <!-- HASHNODE_BLOG:END -->
   
 > ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
