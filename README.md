@@ -49,6 +49,9 @@ I do cloud certifications to stay up to date on the latest technologies. I am cu
 <img align="left" alt="GCP" width="26px" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
 <img align="left" alt="Terraform" width="26px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="BASH" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
+<img align="left" alt="BASH" width="26px" src="https://seekvectorlogo.com/wp-content/uploads/2018/12/docker-vector-logo-small.png" />
+<img align="left" alt="BASH" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
@@ -56,4 +59,5 @@ I do cloud certifications to stay up to date on the latest technologies. I am cu
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LINUX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" />
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" />
+
 
