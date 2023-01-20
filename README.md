@@ -15,7 +15,7 @@ I'm highly dynamic and able to quickly adapt to changing situations. With a stro
 <br><br>
 
   
-I do cloud certifications to stay up to date on the latest technologies. I am currently 16 times Multi-Cloud Certified.
+I do cloud certifications to stay up to date on the latest technologies. I am currently 17 times Multi-Cloud Certified.
 <br>Find out more from [here](https://github.com/Y4HYA4/ExperienceInCloud#readme).
   
 </details>
