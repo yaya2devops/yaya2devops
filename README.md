@@ -7,15 +7,12 @@ Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generatio
 <summary>
   Learn more about my experience
 </summary>
-  
  <br>
 My experience includes process automation, cloud infrastructure development, security architecture, secops, and support for existing procedures.
-<br><br>
-I'm highly dynamic and able to quickly adapt to changing situations. With a strong background in problem solving and creative thinking, I have the ability to think outside of the box while still maintaining an organized approach. My enthusiasm for learning new skills makes me a valuable asset in any team environment as well as my commitment to delivering results on time.
-<br><br>
+<br><br>  
 
   
-I do cloud certifications to stay up to date on the latest technologies. I am currently 17 times Multi-Cloud Certified.
+I do cloud certifications to stay up to date on the latest technologies. <br> I am currently 17 times Multi-Cloud Certified.
 <br>Find out more from [here](https://github.com/Y4HYA4/ExperienceInCloud#readme).
   
 </details>
