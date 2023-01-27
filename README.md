@@ -1,7 +1,7 @@
 
 Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generation CyberSecurity Consulting** (NGCSC). <br>
 
-<img src="3DTOUCH.gif" align="right" width="300" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Y4HYA4&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" align="right" width="500" >
 
 <details>
 <summary>
@@ -37,8 +37,10 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 <a href="https://www.linkedin.com/in/yahya-abulhaj/">
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br>
+<img src="3DTOUCH.gif" align="left" width="500" >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y4HYA4&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <a href=#><img align="right" src="contributions.svg"></a>
 <img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
