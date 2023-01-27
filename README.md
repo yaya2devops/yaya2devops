@@ -33,9 +33,6 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 
 <br>
 
-
-<br>
-
 <br>
 
 <b>Let's connect!</b>
@@ -45,11 +42,6 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 <a href="https://www.linkedin.com/in/yahya-abulhaj/">
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br>
-
-<br>
-<br>
-
-<br>
 
 <br>
 
