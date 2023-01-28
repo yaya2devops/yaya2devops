@@ -8,7 +8,7 @@ Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generatio
   Learn more about my experience
 </summary>
  <br>
-My experience includes process automation, cloud infrastructure development, security architecture, secops, and support for existing procedures.
+My experience includes process automation, cloud infrastructure development, security architecture, modern operations, and support for existing procedures.
 <br><br>  
 
   
