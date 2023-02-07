@@ -22,9 +22,9 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 </summary>
 
 <!-- HASHNODE_BLOG:START -->
+- [AWS Cloud Project Bootcamp](https://blog.yahya-abulhaj.dev//aws-cloud-project-bootcamp)
 - [API-Driven Innovation: The Digital Age's Winning Formula](https://blog.yahya-abulhaj.dev//api-driven-innovation-the-digital-ages-winning-formula)
 - [The Technology Titan Go Language](https://blog.yahya-abulhaj.dev//the-technology-titan-go-language)
-- [AWS Developer Exam Study Guide: Resources, Tips, and Strategies](https://blog.yahya-abulhaj.dev//aws-developer-exam-study-guide-resources-tips-and-strategies)
 <!-- HASHNODE_BLOG:END -->
   
 > ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
