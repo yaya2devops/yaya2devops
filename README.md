@@ -5,7 +5,7 @@ Hi! 👋 My name is Yahya, and I work as a **DevOps🗘 Consultant** for **Next 
 
 <details>
 <summary>
-  〉 Learn more about my experience
+  〉 Learn More About My Experience
 </summary>  ﹀ 
  <br>
 My experience includes process automation, cloud infrastructure development, security architecture, modern operations, and support for existing procedures.
@@ -18,7 +18,7 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 </details>
 
 <details>
-<summary> 〉 I also write articles
+<summary> 〉 I Also Write Articles
 </summary>﹀
 
 <!-- HASHNODE_BLOG:START -->
@@ -30,6 +30,20 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 > ❝In real open source, you have the right to control your own destiny.❞ -Linus Torvalds
 
 </details>
+
+<details>
+<summary> 〉 <b>S</b>ome of my projects
+</summary>﹀
+  
+| Project      | Description | Direction|
+| :----------- | :----------- |:-----------: |
+| CloudBoost      |   Azure Fundamentals Notes     |[Link](https://cloud.itzyahya.tech/)|
+| Bachelors Guide   |      Simplifying Degree   |[Link](https://istic.computer-engineering.tech/?#/ISTIC_Materials)|  
+|  Linux Roadmap   |      My guide To Starting Linux   |[Link](https://istic.computer-engineering.tech/?#/ISTIC_Materials)|  
+|  Cloudrise   |      Cloud Certification resources   |[Link](https://cloudrise.yahya-abulhaj.dev/)|  
+
+  
+</details>  
 
 <br>
 
