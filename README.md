@@ -45,7 +45,6 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
   
 </details>  
 
-<br>
 
 <br>
 
@@ -66,7 +65,6 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 
 <br>
 
-<br>
 
 
 <img src="3DTOUCH.gif" align="left" width="500" >
