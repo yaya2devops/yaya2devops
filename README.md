@@ -1,12 +1,12 @@
 
-Hi! My name is Yahya, and I work as a **DevOps consultant** for **Next Generation CyberSecurity Consulting** (NGCSC). <br>
+Hi! 👋 My name is Yahya, and I work as a **DevOps🗘 Consultant** for **Next Generation Cybersecurity Consulting** (NGCSC). <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaya2devops&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" align="right" width="500" >
 
 <details>
 <summary>
-  Learn more about my experience
-</summary>   
+  〉 Learn more about my experience
+</summary>  ﹀ 
  <br>
 My experience includes process automation, cloud infrastructure development, security architecture, modern operations, and support for existing procedures.
 <br><br>  
@@ -18,8 +18,8 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 </details>
 
 <details>
-<summary> I also write articles
-</summary>
+<summary> 〉 I also write articles
+</summary>﹀
 
 <!-- HASHNODE_BLOG:START -->
 - [AWS Cloud Project Bootcamp](https://blog.yahya-abulhaj.dev//aws-cloud-project-bootcamp)
