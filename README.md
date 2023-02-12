@@ -68,7 +68,6 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 <br>
 <br>
 
-<br>
 
 
 
