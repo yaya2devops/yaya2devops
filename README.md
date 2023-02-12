@@ -38,6 +38,7 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 | Project      | Description | Direction|
 | :----------- | :----------- |:-----------: |
 | CloudBoost      |   Azure Fundamentals Notes     |[Link](https://cloud.itzyahya.tech/)|
+|  OnBoardToSentinel   |      Technical Product Setup   |[Link](https://sentinel.yahya-abulhaj.dev/)|  
 | Bachelors Guide   |      Simplifying Degree   |[Link](https://istic.computer-engineering.tech/?#/ISTIC_Materials)|  
 |  Linux Roadmap   |      My guide To Starting Linux   |[Link](https://linux.yahya-abulhaj.dev/)|  
 |  Cloudrise   |      Cloud Certification resources   |[Link](https://cloudrise.yahya-abulhaj.dev/)|  
