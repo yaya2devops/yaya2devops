@@ -55,7 +55,7 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 <a href="https://www.linkedin.com/in/yahya-abulhaj/">
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCYFSvgzYYGSUhkGOsbA-oIw">
+<a href="https://www.youtube.com/@yaya2devops/">
   <img align="left" alt="Yaya's Youtube" width="35px" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png" />
 </a>
 <a href="https://blog.yahya-abulhaj.dev/">
