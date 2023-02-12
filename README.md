@@ -67,7 +67,7 @@ I do cloud certifications to stay up to date on the latest technologies. <br> I 
 
 
 
-<img src="3DTOUCH.gif" align="left" width="500" >
+<img src="3DTOUCH.gif" align="left"  >
 
 
 
