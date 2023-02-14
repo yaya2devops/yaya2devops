@@ -50,13 +50,16 @@ I do cloud certifications to stay up to date on the latest technologies and to s
 
 
  <a href="https://www.instagram.com/yaya2devops/">
-  <img align="left" alt="Yaya connect" width="200px" src="est.png" />
+  <img align="left" alt="Follow Yahya In Social Media" width="200px" src="est.png" />
 </a>
  <a href="https://www.instagram.com/yaya2devops/">
   <img align="left" alt="Yaya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/yahya-abulhaj/">
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/yaya2devops">
+  <img align="left" alt="Yaya's Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
 </a>
 <a href="https://www.youtube.com/@yaya2devops/">
   <img align="left" alt="Yaya's Youtube" width="35px" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png" />
