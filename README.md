@@ -62,10 +62,8 @@ I do cloud certifications to stay up to date on the latest technologies and to s
   <img align="left" alt="Yaya's Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
 </a>
 <a href="https://www.youtube.com/@yaya2devops/">
-  <img align="left" alt="Yaya's Youtube" width="35px" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-transparent---32.png" />
+  <img align="left" alt="Yaya's Youtube" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/youtube-icon-logo-png-transparent.png" />
 </a>
-<a href="https://blog.yahya-abulhaj.dev/">
-  <img align="left" alt="Blogging" width="5px" src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:674x674/rscb2/ng:webp/ngcb2" />
 </a>
 <br>
 <br>
@@ -79,6 +77,8 @@ I do cloud certifications to stay up to date on the latest technologies and to s
 
 
 <a href=#><img align="right" src="contributions.svg"></a>
+<a href="https://blog.yahya-abulhaj.dev/">
+  <img align="left" alt="Blogging" width="20px" src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:674x674/rscb2/ng:webp/ngcb2" />
 <img align="left" alt="Microsoft Azure" width="26px" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 <img align="left" alt="GCP" width="26px" src="https://static.cdnlogo.com/logos/g/75/google-cloud.svg" />
