@@ -38,7 +38,7 @@ I do cloud certifications to stay sharp & up to date on the latest technologies.
 | Project      |Logo| Description | Direction|
 | :----------- | :-----------: |:----------- |:-----------: |
 | CloudBoost      |<img src="https://raw.githubusercontent.com/yaya2devops/CloudBoost/master/public/images/Boost.png" width="40"> |  Azure Fundamentals Notes     |[Link](https://cloud.itzyahya.tech/)|
-|  OnBoardToSentinel   |<img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Azure-Sentinel-900x0.png" width="60"> |     Technical Product Setup   |[Link](https://sentinel.yahya-abulhaj.dev/)|  
+|  OnBoardToSentinel   |<img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Azure-Sentinel-900x0.png" width="65"> |     Technical Product Setup   |[Link](https://sentinel.yahya-abulhaj.dev/)|  
 | Bachelors Guide   |<img src="https://raw.githubusercontent.com/yaya2devops/Bachelor-Guide/main/docs/images/enlogo.png" width="40">  |    Simplifying Degree   |[Link](https://istic.computer-engineering.tech/?#/ISTIC_Materials)|  
 |  Linux Roadmap   |<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="40"> |     My guide To Starting Linux   |[Link](https://linux.yahya-abulhaj.dev/)|  
 |  Cloudrise   |   <img src="https://cdn-icons-png.flaticon.com/512/356/356490.png" width="40">|   Cloud Certification resources   |[Link](https://cloudrise.yahya-abulhaj.dev/)|  
