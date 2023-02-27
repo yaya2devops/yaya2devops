@@ -12,7 +12,7 @@ My experience includes process automation, cloud infrastructure development, sec
 <br><br>  
 
   
-I do cloud certifications to stay sharp & up to date on the latest technologies. <br> I am currently 21 times Multi-Cloud Certified.
+I do cloud certifications to stay sharp & up to date on the latest technologies. <br> I am currently 22 times Multi-Cloud Certified.
 <br>Find out more from [here](https://github.com/Y4HYA4/ExperienceInCloud#readme).
   
 </details>
