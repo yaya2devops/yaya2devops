@@ -72,7 +72,7 @@ I do cloud certifications to stay sharp & up to date on the latest technologies.
 
 
 
-<img src="3DTOUCH.gif" align="left"  >
+<img src="Hey.gif" align="left"  >
 
 
 
