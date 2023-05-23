@@ -1,7 +1,6 @@
 
 Hi! 👋 My name is Yahya aka Yaya, and I work as a **DevOps🗘 Consultant** for **Next Generation Cybersecurity Consulting** (NGCSC). <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaya2devops&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" align="right" width="420" >
 
 <details>
 <summary>
@@ -58,11 +57,6 @@ I do cloud certifications to stay sharp & up to date on the latest technologies.
 <a href="https://www.linkedin.com/in/yahya-abulhaj/">
   <img align="left" alt="Yaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/yaya2devops">
-  <img align="left" alt="Yaya's Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />
-</a>
-<a href="https://www.youtube.com/@yaya2devops/">
-  <img align="left" alt="Yaya's Youtube" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/youtube-icon-logo-png-transparent.png" />
 </a>
 </a>
 <br>
