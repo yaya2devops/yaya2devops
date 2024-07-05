@@ -1,5 +1,5 @@
  #### Hey There! 👋
- [I'm Yaya—your go-to for all things code, cloud, and DevOps. I construct and instruct. Have fun!](https://creator.ya-ya.tech/)
+ [I'm Yaya—your go-to for all things code, cloud, and DevOps. I construct and instruct. Have fun!](https://merit.ya-ya.tech/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
