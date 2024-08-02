@@ -8,4 +8,17 @@
   <img alt="github contribution grid snake animation" src="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-### now open 🙉
+<details>
+
+ <summary> 
+
+ <h3> now open 🙉  </h3>
+  
+ </summary>
+
+<h2> 😂 that is it , so funny  🙊</h2>
+
+ > <a href="mailto:dev@yahya-abulhaj.dev">tell me</a> you liked it
+
+</details>
+
