@@ -18,7 +18,7 @@
 
 <h2> 😂 that is it , so funny  🙊</h2>
 
- > <a href="mailto:ya@yah.qa">tell me</a> you liked it
+ > <a href="mailto:ya@yah.qa">tell Me</a> You liked it
 
 </details>
 
