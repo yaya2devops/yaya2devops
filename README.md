@@ -1,24 +1,10 @@
- ## hey there 👋
- 
+## hey there 👋  
 
-### 🙈 close your eyes , let's play a funny game
+### bilingual engineer & ex-gamer sharing the way that worked  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://github.com/Pflegusch/pflegusch/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<details>
-
- <summary> 
-
- <h3> now open 🙉  </h3>
-  
- </summary>
-
-<h2> 😂 that is it , so funny  🙊</h2>
-
- > <a href="mailto:ya@yah.qa">tell Me</a> You liked it
-
-</details>
-
+> <a href="mailto:ya@yah.qa">say hi</a> — maybe it works for you too.
